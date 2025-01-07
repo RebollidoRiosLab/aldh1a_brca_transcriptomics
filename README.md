@@ -18,7 +18,7 @@ This repository contains scripts and resources for the analysis of publicly avai
   - **Breast Invasive Carcinoma (TCGA, Firehose Legacy)**
 - A total of 1103 unique patient samples analyzed.
 
-### 3. Single-Cell RNA-seq (scRNA-seq)
+### 3. Single-cell RNA-seq (scRNA-seq)
 - **Cell lines**: Publicly available data retrieved from [Figshare](https://figshare.com/articles/dataset/Single_Cell_Breast_Cancer_cell-line_Atlas/15022698), encompassing 32 breast cancer cell lines.
 - **Patient samples**: Publicly available data retrieved from the [Broad Institute Single Cell Portal](https://singlecell.broadinstitute.org/single_cell/study/SCP103930), encompassing 26 individual patient samples.
 
