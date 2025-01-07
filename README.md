@@ -1,6 +1,6 @@
 # BRCA Transcriptomics
 
-This repository contains scripts and resources for the analysis of publicly available bulk and single-cell transcriptomic data from breast cancer cell lines and patient tumors. The analyses focus on investigating molecular subtypes and the expression patterns of key genes, including the **ALDH1A subfamily: ALDH1A1, ALDH1A2, and ALDH1A3 genes**.
+This repository contains scripts and resources for the analysis of publicly available bulk and single-cell transcriptomic data from breast cancer cell lines and patient tumors. The analyses focus on investigating molecular subtypes and the expression patterns of key genes, including the **ALDH1A subfamily: ALDH1A1, ALDH1A2, and ALDH1A3**.
 
 ---
 
