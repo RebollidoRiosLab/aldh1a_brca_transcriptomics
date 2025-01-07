@@ -6,19 +6,19 @@ This repository contains scripts and resources for the analysis of publicly avai
 
 ## Data Sources
 
-### 1. Breast Cancer Cell Lines (Bulk RNA-Seq)
+### 1. Breast Cancer Cell Lines (Bulk RNA-seq)
 - Publicly available data retrieved from the **CCLE 2019** dataset via the [DepMap portal](https://depmap.org/portal/).
 - Includes raw read counts for 50 human breast cancer cell lines.
 - Molecular subtypes classified into basal A, basal B, HER2-enriched, and luminal.
 
-### 2. Breast Tumor Patient Samples (Bulk RNA-Seq)
+### 2. Breast Tumor Patient Samples (Bulk RNA-seq)
 - Publicly available mRNA gene expression data retrieved from [cBioPortal](https://www.cbioportal.org):
   - **Breast Invasive Carcinoma (TCGA, Cell 2015)**
   - **Breast Invasive Carcinoma (TCGA, PanCancer Atlas)**
   - **Breast Invasive Carcinoma (TCGA, Firehose Legacy)**
 - A total of 1103 unique patient samples analyzed.
 
-### 3. Single-Cell RNA-Seq (scRNA-Seq)
+### 3. Single-Cell RNA-seq (scRNA-seq)
 - **Cell lines**: Publicly available data retrieved from [Figshare](https://figshare.com/articles/dataset/Single_Cell_Breast_Cancer_cell-line_Atlas/15022698), encompassing 32 breast cancer cell lines.
 - **Patient samples**: Publicly available data retrieved from the [Broad Institute Single Cell Portal](https://singlecell.broadinstitute.org/single_cell/study/SCP103930), encompassing 26 individual patient samples.
 
