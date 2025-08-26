@@ -1,5 +1,7 @@
 # ALDH1A BRCA Transcriptomics
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
 This repository contains scripts and resources for the analysis of publicly available bulk and single-cell transcriptomic data from breast cancer cell lines and patient tumors. The analyses focus on investigating molecular subtypes and the expression patterns of key genes, in particular the **ALDH1A subfamily: ALDH1A1, ALDH1A2, and ALDH1A3**. 
 
 This work is associated with the publication:  
@@ -81,7 +83,7 @@ Rscript scripts/scrna_brca_patients.R
 
 If you use this repository, please cite the associated publications:
 
-	1.	Main paper (in proofs, corresponding author)
+ 1.	Main paper (in proofs, corresponding author)
 Pequerul R, Constantinescu A, Janji B, Kumar A, Baier C, Manosalva I, Parés X, Palacios O, Spicuglia S, Colignon D, Berrou A, Fournet G, Berchard P, Martin G, Ceylan I, Rebollido-Ríos R*, Farrés J*, Perez-Alea M*.
 Inter- and intra-tumoral ALDH1 heterogeneity in breast cancer identifies therapeutic opportunities for ALDH1A-specific inhibitors.
 	
@@ -90,8 +92,8 @@ Pequerul R, Constantinescu A, Janji B, Kumar A, Parés X, Palacios O, Colignon D
 ALDH1 subtype-specific inhibitor targets key cancerous epithelial cell populations in aggressive subtypes of breast cancer.
 bioRxiv 2024.10.18.619128. doi: https://doi.org/10.1101/2024.10.18.619128
 	
- 3.	Code & data DOI (Zenodo, to be added)
-Will be updated once Zenodo DOI is minted.
+ 3.	Code & data DOI (Zenodo)
+Rebollido-Ríos R. et al. (2025). *ALDH1A BRCA Transcriptomics [Code and data].* Zenodo. https://doi.org/10.5281/zenodo.YYYYYYY
 
 ---
 
