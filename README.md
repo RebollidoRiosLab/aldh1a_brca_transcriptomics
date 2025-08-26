@@ -93,8 +93,7 @@ bioRxiv 2024.10.18.619128. doi: https://doi.org/10.1101/2024.10.18.619128
  3.	Code & data DOI (Zenodo, to be added)
 Will be updated once Zenodo DOI is minted.
 
-
-⸻
+---
 
 ## 📬 Contact
 Rocio Rebollido-Rios, PhD (Corresponding Author) -> rocio.rebollido-rios@uni-koeln.de
