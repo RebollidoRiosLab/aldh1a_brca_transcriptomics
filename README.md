@@ -1,6 +1,6 @@
 # ALDH1A BRCA Transcriptomics
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16951047.svg)](https://doi.org/10.5281/zenodo.16951046)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16951046.svg)](https://doi.org/10.5281/zenodo.16951046)
 
 
 This repository contains scripts and resources for the analysis of publicly available bulk and single-cell transcriptomic data from breast cancer cell lines and patient tumors. The analyses focus on investigating molecular subtypes and the expression patterns of key genes, in particular the **ALDH1A subfamily: ALDH1A1, ALDH1A2, and ALDH1A3**. 
