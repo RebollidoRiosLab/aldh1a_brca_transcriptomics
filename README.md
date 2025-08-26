@@ -99,11 +99,18 @@ Rebollido-Ríos R. et al. (2025). *ALDH1A BRCA Transcriptomics [Code and data].*
 
 ---
 
-## 📬 Contact
-Rocio Rebollido-Rios, PhD (Corresponding Author) -> rocio.rebollido-rios@uni-koeln.de
+## ✉️ Contact
+
+For questions, feedback, or requests for additional data, feel free to reach out to:
+
+- **Rocio Rebollido-Rios:** [rocio.rebollido-rios@uni-koeln.de](mailto:rocio.rebollido-rios@uni-koeln.de)  
 
 ---
 
 ## 📜 License
 Code in this repository is licensed under the [MIT License](LICENSE).
+
+
+© 2025 Rebollido-Rios Lab. Released for academic research purposes.
+
 
