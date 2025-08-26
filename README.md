@@ -29,6 +29,7 @@ aldh1a_brca_transcriptomics/
 │   ├── metadata/         # Metadata tables (sample annotations, cluster info, etc.)
 │   └── annotations/      # Gene annotations (e.g., GENCODE references)
 └── README.md
+└── LICENSE
 ```
 
 ---
@@ -99,3 +100,9 @@ Rebollido-Ríos R. et al. (2025). *ALDH1A BRCA Transcriptomics [Code and data].*
 
 ## 📬 Contact
 Rocio Rebollido-Rios, PhD (Corresponding Author) -> rocio.rebollido-rios@uni-koeln.de
+
+---
+
+## 📜 License
+Code in this repository is licensed under the [MIT License](LICENSE).
+
